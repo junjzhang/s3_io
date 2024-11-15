@@ -1,0 +1,8 @@
+
+# pixi environments
+.pixi
+*.egg-info
+log/
+__pycache__/
+experiment_files/
+examples/download_internvid.sh
