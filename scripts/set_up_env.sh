@@ -1,4 +1,4 @@
-export FSSPEC_S3_ENDPOINT_URL="http://minio.minio-tenant.svc.cluster.local"
+export FSSPEC_S3_ENDPOINT_URL=""
 export FSSPEC_S3_KEY=""
 export FSSPEC_S3_SECRET=""
 export AWS_ENDPOINT_URL="$FSSPEC_S3_ENDPOINT_URL"
